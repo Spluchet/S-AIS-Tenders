@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "Procurement of Satellite AIS Data",
+    "Publication Date": "2025-05-10",
+    "Closing Date": "2025-06-15",
+    "Country": "Norway",
+    "Portal": "Doffin",
+    "URL": "https://example.com/tender/12345",
+    "Buyer": "Kystverket",
+    "Notes": "Satellite AIS data for maritime surveillance"
+  },
+  {
+    "Title": "Global Maritime Tracking Services",
+    "Publication Date": "2025-07-01",
+    "Closing Date": "2025-08-01",
+    "Country": "Japan",
+    "Portal": "J-BID",
+    "URL": "https://example.com/tender/67890",
+    "Buyer": "Japan Coast Guard",
+    "Notes": "Vessel tracking system using S-AIS"
+  }
+]
